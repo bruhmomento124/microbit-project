@@ -1,6 +1,8 @@
 # microbit-project
 small school project
 
+the game itself: The game is a simple, bop-it like matching game. the user will run the program on a microbit and launch the python program on a connected computer, the computer will give an input that the user will have to match with the microbit.
+
 accompyaning microbit program: https://makecode.microbit.org/_dHUhUaa404t3
 
 some notes: 
@@ -17,3 +19,4 @@ as stated in main.py
 - the microbit sends the data depending on what the function is, and the python project checks if its the correct data
  - this explanation isnt the greatest, but you can find more in depth explanations by reading the comments throughout the code
 "
+
