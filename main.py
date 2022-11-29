@@ -3,7 +3,7 @@ quick summary of how it all works:
 
 the microbit has a function to send serial data through a USB input, i assign a few actions on the accompanying microbit project (https://makecode.microbit.org/_dHUhUaa404t3)
 the microbit sends the data depending on what the function is, and the python project checks if its the correct data
-this explanation isnt the greatest, but you can find more in depth explanations by reading the commends throughout the code
+this explanation isnt the greatest, but you can find more in depth explanations by reading the comments throughout the code
 """
 
 import serial, random, time
